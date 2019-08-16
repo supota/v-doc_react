@@ -14,5 +14,5 @@ and access to [3000 Port](http://localhost:3000)
 
 ```
 $ git add .
-$ npm commit
+$ npm run commit
 ```
